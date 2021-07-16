@@ -47,7 +47,7 @@
     "mock-local-storage": "~1.1.11",
     "nyc": "~15.0.1",
     "rimraf": "~3.0.2",
-    "rollup": "~2.3.4",
+    "rollup": "~2.52.3",
     "rollup-plugin-babel": "~4.4.0",
     "rollup-plugin-commonjs": "~10.1.0",
     "rollup-plugin-node-resolve": "~5.2.0",
