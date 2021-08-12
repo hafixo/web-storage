@@ -54,7 +54,7 @@ snyk-upgrade-09f664d8dbde39fde387450ed617fc65
     "rollup-plugin-commonjs": "~10.1.0",
     "rollup-plugin-node-resolve": "~5.2.0",
     "rollup-plugin-terser": "~5.3.0",
-    "sinon": "~9.0.2",
+    "sinon": "~9.2.4",
     "sinon-chai": "~3.5.0"
   },
   "browserslist": "> 0.5%, last 2 versions, Firefox ESR, not dead",
